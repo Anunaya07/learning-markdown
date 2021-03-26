@@ -11,6 +11,8 @@ Instruction for setting up GraphQL in a Django project.
 1. [Creating Schemas](#creating-schemas)
 1. Using Graphiql
 1. [Roadmap](#roadmap)
+1. [Foot Note](#foot-note)
+1. [Footer](#footer)
 
 ## why Graphql?
 
@@ -57,7 +59,6 @@ Section body text.
 
 </details>
 
----
 
 ## Foot Note
 Happy tree are happy. [^1]

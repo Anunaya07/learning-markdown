@@ -47,3 +47,10 @@ class Query(graphene.ObjectType):
 
 
 [![Graphene Django](./image_1.jpeg)](https://docs.graphene-python.org/en/latest/)
+
+some text <br> some more text
+
+## Roadmap
+ - [ ] Task #1
+ - [ ] Task #2
+ - [ ] Task #3

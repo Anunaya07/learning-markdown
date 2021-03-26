@@ -10,6 +10,7 @@ Instruction for setting up GraphQL in a Django project.
 1. [Graphene Installation](#graphene-installtion)
 1. [Creating Schemas](#creating-schemas)
 1. Using Graphiql
+1. [Roadmap](#roadmap)
 
 ## why Graphql?
 
@@ -39,18 +40,27 @@ class Query(graphene.ObjectType):
 ```
 
 ---
-> The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe.
->
->>We don’t make mistakes. We just have happy accidents.
->
-> -<cite>Bob Ross</cite>
+
+| light color  | Current State | Next State |
+|:------- | :------- | :------- |
+| Green | Green | Yellow |
+| Yellow | Yellow | Red |
+
+<details>
+<summary> Section Header </summary>
 
 
-[![Graphene Django](./image_1.jpeg)](https://docs.graphene-python.org/en/latest/)
+Section body text.
+- Hello
+- test
 
-some text <br> some more text
 
-## Roadmap
- - [x] Task #1
- - [ ] Task #2
- - [ ] Task #3
+</details>
+
+---
+
+## Foot Note
+Happy tree are happy. [^1]
+
+## Footer
+[^1]: By Bob Ross
